@@ -1,0 +1,24 @@
+h1{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#map {
+    display: flex;
+    height: 540px;
+    width: 960px;
+    margin: 220px 480px;
+    align-self: center;
+}
+
+.imagenMarcador{
+    display: block;
+    margin: auto;
+    align-self: auto;
+}
+
+.leaflet-control-attribution{
+    display: none;
+}
+
+/* "leaflet-control-attribution leaflet-control" */
