@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "description": "Acá huele feo a veces",
+                "audio": "",
+                "video": "",
+                "image": "assets/1.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.5023983,
+                    19.2918604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "description": "Una vez vi a un albañil moneandose por acá",
+                "audio": "",
+                "video": "",
+                "image": "assets/2.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.4967152,
+                    19.2903521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "description": "Se aparece la llorona, según mi tio",
+                "audio": "",
+                "video": "",
+                "image": "assets/3.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.4977303,
+                    19.2845838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "description": "Acá vive Alfredo Adame",
+                "audio": "",
+                "video": "",
+                "image": "assets/4.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.4856905,
+                    19.2908563
+                ]
+            }
+        }
+    ]
+}
